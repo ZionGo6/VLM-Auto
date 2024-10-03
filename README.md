@@ -9,13 +9,13 @@ Follow this [link](https://pan.baidu.com/s/19ejR9HIJDpL6kwKQ9f7dPg?pwd=rdkd) to 
 ## Pipeline
 
 ### Fine-tuning
-Follow the official instructions of [link](https://github.com/QwenLM/Qwen-VL/blob/master/finetune.py) Qwen-vl for fine-tuning or other alternatives you need. Our dataset's format is based on the fine-tuning format of Qwen-vl.
+Follow the official instructions of [Qwen-VL](https://github.com/QwenLM/Qwen-VL/blob/master/finetune.py) for fine-tuning or other alternatives you need. Our dataset's format is based on the fine-tuning format of Qwen-vl.
 
 ### Docker
 In docker/, dockerfile for the env of this pipeline is provided.
 
 ### CARLA
-Prepare the CARLA simulator [link](https://github.com/carla-simulator/carla), we used CARLA 0.9.15 for our experiments.
+Prepare the [CARLA simulator](https://github.com/carla-simulator/carla), we used CARLA 0.9.15 for our experiments.
 
 ### CARLA-ROS-bridge
 Install ROS package for the communication between ROS and CARLA: [link](https://github.com/carla-simulator/ros-bridge)
