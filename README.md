@@ -15,7 +15,7 @@ Follow the official instructions of [link](https://github.com/QwenLM/Qwen-VL/blo
 In docker/, dockerfile for the env of this pipeline is provided.
 
 ### CARLA
-Prepare the CARLA simulator[link](https://github.com/carla-simulator/carla), we used CARLA 0.9.15 for our experiments.
+Prepare the CARLA simulator [link](https://github.com/carla-simulator/carla), we used CARLA 0.9.15 for our experiments.
 
 ### CARLA-ROS-bridge
 Install ROS package for the communication between ROS and CARLA: [link](https://github.com/carla-simulator/ros-bridge)
